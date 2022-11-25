@@ -1,0 +1,13 @@
+name: state_migration
+title: state_migration
+username:
+account: robchavez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7727427
+bundleId: 6552258
+url: https://robchavez.shinyapps.io/state_migration/
+when: 1669334154.3724
+lastSyncTime: 1669334154.37241
+asMultiple: FALSE
+asStatic: FALSE
